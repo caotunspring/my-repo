@@ -1,3 +1,3 @@
 # Home
 
-![About](about.md)
+-[About](about.md)
